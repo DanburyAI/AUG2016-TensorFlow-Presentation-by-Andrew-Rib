@@ -17,11 +17,11 @@ limitations under the License.
 
 In order to install the virtualenv dependancies used in the creation of this project, please do the following: 
 
-#Make a new virtual environment named whatever you'd like. Place holder: <env_name>
+##### Make a new virtual environment named whatever you'd like. Place holder: <env_name>
 virtualenv <env_name>
 
-# Activate the newly created virtual environment. 
+##### Activate the newly created virtual environment.
 source <env_name>/bin/activate
 
-# Now that your new virtual environment is created 
+##### Now that your new virtual environment is created
 (<env_name>)$ pip install -r path/to/requirements.txti
